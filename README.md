@@ -66,7 +66,8 @@ Este projeto tem como foco:
 
 ## Dashboard
 
-![Dashboard Financeiro](./Imagem/Dashboard.png)
+
+![Dashboard](Lab%2007%20-%20An%C3%A1lise%20Financeira/Imagem/Dashboard.png)
 
 ---
 
