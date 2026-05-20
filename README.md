@@ -66,7 +66,7 @@ Este projeto tem como foco:
 
 ## Dashboard
 
-![Dashboard Financeiro](./img/Dashboard.png)
+![Dashboard Financeiro](./Imagem/Dashboard.png)
 
 ---
 
